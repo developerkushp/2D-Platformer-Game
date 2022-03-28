@@ -6,6 +6,9 @@ TagManager:
   tags:
   - Enemy
   - PickUp
+  - VirtualCamera
+  - Boundary1
+  - Boundary2
   layers:
   - Default
   - TransparentFX
@@ -13,7 +16,7 @@ TagManager:
   - 
   - Water
   - UI
-  - 
+  - Ammo
   - 
   - Blocking
   - Enemies
